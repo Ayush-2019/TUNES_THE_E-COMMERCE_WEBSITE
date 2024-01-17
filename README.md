@@ -1,3 +1,5 @@
+<div style="font-size:35px, font-weight:bold">Application Succesfully Deployed: https://tunes-akiledar.netlify.app/</div>
+
 # TUNES_THE_E-COMMERCE_WEBSITE
 
 DESCRIPTION:-
