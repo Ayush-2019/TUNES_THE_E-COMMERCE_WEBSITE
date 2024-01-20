@@ -36,7 +36,7 @@ Tunes-The Shopping website is an e-commerce application that has various guitars
 </li>
 
 <li>
-  React Redux is used to create a store that stores the data like details of current user, currently selected product, notifications(if any). The required actions are dispatched and reducers update the current state of the data stored in the store.
+  React Redux is incorporated for top-level state management of the data like  current user, currently selected product, notifications(if any). The required actions are dispatched and reducers update the current state of the data stored in the store.
 </li>
 
 <li>
