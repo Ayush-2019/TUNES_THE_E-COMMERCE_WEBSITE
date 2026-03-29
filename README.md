@@ -28,7 +28,7 @@ Tunes-The Shopping website is an e-commerce application that has various guitars
 </ol>
 
 <ol>
-<li>The front end for this project is created using ReactJS. Various libraries like Material UI, Toastify, React Bootstrap are used to create a UI that the user will love to use and stay on the site.
+<li>The front end for this project is created using ReactJS. Various libraries like Material UI, Toastify, React Bootstrap are used to create a UI that the user will love to use and stay on the site. <b>Also check out the live magic of React, MUI and D3-Ease here: https://github.com/Ayush-2019/SPORTS-TEAM-WEBSITE_REACTJS_FIREBASE</b>
 </li>
 <li>Formik and Yup are used to create the forms for various purposes like registering new users, signing in and much more. Axios is used to send requests to the backend, which further reverts back to the front end.
 </li>
